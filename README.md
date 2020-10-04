@@ -18,3 +18,4 @@
 [![Donate to The Bastion Bot Project](https://i.imgur.com/0vm6T8t.png)](https://bastion.traction.one/donate 'Support the development of The Bastion Bot Project')
 
 </div>
+[![Run on Repl.it](https://repl.it/badge/github/TheBastionBot/Bastion)](https://repl.it/github/TheBastionBot/Bastion)
